@@ -7,4 +7,5 @@ class Background(StaticSprite):
     
     def update(self,dt):
         self.rect.x -= self.horizontal_speed * dt
+        ##olaa
 
