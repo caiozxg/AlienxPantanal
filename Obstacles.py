@@ -1,0 +1,1 @@
+from StaticSprite import StaticSprite
